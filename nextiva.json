@@ -70,50 +70,6 @@
         "editor": "ADVANCED-2.0"
     },
     {
-        "template_name": "Test",
-        "preview_url": "http://www.nextiva.site/preview/ca9dbdee?t=1734021148426&languageCode=en&templateId=2036119800",
-        "thumbnail_url": "https://irt-cdn.multiscreensite.com/d9f1b0573f3b4a62b76f3bcc87dc212f/siteTemplateIcons/yJIgbSRSYqtGKEffpMSs_3%20Sreens%20Devices.png?v=1733883385000",
-        "desktop_thumbnail_url": "https://irp.cdn-website.com/ca9dbdee/screenshots/Screenshot.png?v=1733883385000",
-        "category": [
-            "Blank"
-        ],
-        "tablet_thumbnail_url": "null?v=1733883385000",
-        "mobile_thumbnail_url": "null?v=1733883385000",
-        "template_id": 2036119800,
-        "base_site_name": "ca9dbdee",
-        "template_properties": {
-            "can_build_from_url": false,
-            "type": "custom",
-            "has_store": false,
-            "has_blog": false,
-            "page_count": 5,
-            "visibility": "PUBLIC"
-        },
-        "editor": "ADVANCED-2.0"
-    },
-    {
-        "template_name": "template-KT",
-        "preview_url": "http://www.nextiva.site/preview/5105acf7?t=1734021148427&languageCode=en&templateId=2036113111",
-        "thumbnail_url": "https://irp.cdn-website.com/5105acf7/screenshots/Screenshot.png?v=1732727476000",
-        "desktop_thumbnail_url": "https://irp.cdn-website.com/5105acf7/screenshots/Screenshot.png?v=1732727476000",
-        "category": [
-            "Blank"
-        ],
-        "tablet_thumbnail_url": "null?v=1732727476000",
-        "mobile_thumbnail_url": "null?v=1732727476000",
-        "template_id": 2036113111,
-        "base_site_name": "5105acf7",
-        "template_properties": {
-            "can_build_from_url": false,
-            "type": "custom",
-            "has_store": false,
-            "has_blog": false,
-            "page_count": 4,
-            "visibility": "PRIVATE"
-        },
-        "editor": "ADVANCED-2.0"
-    },
-    {
         "template_name": "Auto Repair",
         "preview_url": "http://www.nextiva.site/preview/SHARD20f8a84df3a244e0f9249423e0588397f?t=1734021148429&languageCode=en&templateId=1000041",
         "thumbnail_url": "https://irp-cdn.multiscreensite.com/md/dmtmpl/3d94eeb4-9b9b-4f7c-b524-a88f8686dd7d/siteTemplateIcons/kMmhpVUROqIr5cF3dC16_Auto_repair_BigPreview.png?v=1724197873000",
